@@ -1,2 +1,2 @@
-# docs
-Documentation website for Réa.
+# Docs
+Documentation website for Réa. using Docusaurus.
