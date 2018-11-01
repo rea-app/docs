@@ -4,7 +4,7 @@ sidebar_label: Les différents rôles
 title: Que voit la personne invitée sur mon projet, les différents rôles ?
 ---
 
-Il existe différentes options pour vos invités. Cela permet de préserver votre pleine maîtrise du projet tout en collaborant de manière plus fluide avec qui vous souhaitez !
+**Il existe différentes options pour vos invités. Cela permet de préserver votre pleine maîtrise du projet tout en collaborant de manière plus fluide avec qui vous souhaitez !**
 
 ## Le membre administrateur
 

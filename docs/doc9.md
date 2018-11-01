@@ -5,7 +5,7 @@ title: Quelles différences y-a-t'il entre les abonnements ?
 ---
 
 
-En fonction de votre abonnement, vous avez le droit à un certain nombre de projets, à plus ou moins de fonctionnalités, à la possibilité d’ajouter un certain nombre de collaborateurs... 
+**En fonction de votre abonnement, vous avez le droit à un certain nombre de projets, à plus ou moins de fonctionnalités, à la possibilité d’ajouter un certain nombre de collaborateurs...**
 
 > Pour les professionnels, nous conseillons vivement de prendre l’abonnement INDEPENDANT que vous essayez gratuitement et sans engagement pendant 15 jours.
 

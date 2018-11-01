@@ -5,7 +5,7 @@ title: Comment puis-je changer mon abonnement ?
 ---
 
 
-Il vous est possible à tout moment de changer de version de l'application Réa. pour obtenir d'avantage de fonctionnalités ou pour les réduire.
+**Il vous est possible à tout moment de changer de version de l'application Réa. pour obtenir d'avantage de fonctionnalités ou pour les réduire.**
 
 Voici la marche à suivre :
 

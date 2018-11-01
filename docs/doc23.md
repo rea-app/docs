@@ -1,13 +1,19 @@
 ---
 id: doc23
-title: A quel stade de mon projet Réa. est utile ?
-sidebar_label: Quand utiliser Réa. ?
+title: A quoi sert l'onglet "projet" à l'intérieur d'un projet ?
+sidebar_label: L'onglet projet
 ---
 
-L’application Réa. est utile en amont du chantier dans sa phase de planification et jusqu’à la réception.
+Une fois votre projet créé, vous rentrez dans l'onglet "projet" toutes les **informations générales** sur celui-ci : dates, enveloppe budgétaire, adresse... Elles apparaitront notamment dans vos exports (descriptif détaillés, comptes-rendus, etc.) et peuvent s'avérer utiles pour vos collaborateurs.
 
-## Le DCE
+Dans cet onglet, vous gérez la **TVA** à l'échelle du projet bien que celle-ci puisse être calibrée ensuite par lot et par matériaux.
 
-pour bénéficier de plus d'options ou pour suivre l'avancement de vos travaux à distance et en toute tranquillité.
+> Accéder à la rubrique [Gérer la TVA](doc14.md)
 
-> Voir aussi la rubrique [Gérer mon abonnement](doc7.md)
+C’est également dans l'onglet "projet" que vous ajoutez et gérez les rôles de vos **collaborateurs**.
+
+> Voir aussi la rubrique [Ajouter des membres](doc21.md)
+
+ Et, pour finir, vous pouvez depuis cette section **archiver le projet** (sur le web uniquement) **ou le supprimer** (web et mobile).
+
+> Voir aussi les rubriques sur [l'archivage](doc17.md) et [la suppression](doc17.md) des projets.

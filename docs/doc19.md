@@ -5,7 +5,7 @@ title:  Comment puis-je supprimer un projet ?
 ---
 
 
-Vous pouvez supprimer un projet seulement si vous êtes administrateur de ce projet. Cette action est possible sur le web comme sur l’appli mobile.
+**Vous pouvez supprimer un projet seulement si vous êtes administrateur de ce projet. Cette action est possible sur le web comme sur l’appli mobile.**
 
 ## Sur la version web
 

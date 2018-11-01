@@ -5,7 +5,7 @@ title: Comment créer mon compte ?
 ---
 
 
-Pour vous connecter à l’application Réa. vous devez avoir créé votre compte.
+**Pour vous connecter à l’application Réa. vous devez avoir créé votre compte.**
 
 Deux possibilités :
 
@@ -15,4 +15,4 @@ Deux possibilités :
 
 Vous recevrez à l’adresse mail renseignée une confirmation qui vous permettra de choisir votre mot de passe. Pensez à vérifier vos spams si vous ne recevez pas de mail et, en cas de problème, à nous contacter à l'adresse mail suivante : support@rea-app.fr.
 
-> Lors de votre première connexion, vous êtes automatiquement renvoyé sur le web (mon.rea-app.fr) pour créer votre mot de passe. Nous vous conseillons si vous êtes sur mobile de retourner sur l’application mobile.
+> Lors de votre première connexion, vous êtes automatiquement renvoyé sur le web (mon.rea-app.fr) pour créer votre mot de passe. **Nous vous conseillons si vous êtes sur votre smartphone de retourner sur l’application mobile.**

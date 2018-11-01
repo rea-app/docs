@@ -4,7 +4,7 @@ sidebar_label: Accéder à l'application
 title: Comment puis-je accéder à l’application Réa. ?
 ---
 
-Vous pouvez accéder à l'application Réa. d'où vous le souhaitez soit :
+**Vous pouvez accéder à l'application Réa. d'où vous le souhaitez** soit :
 
 1/ depuis un ordinateur grâce à la plateforme web : mon.rea-app.fr. Vous vous y connectez depuis n’importe quel ordinateur.
 
