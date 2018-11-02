@@ -4,7 +4,7 @@ sidebar_label: Ajouter de membres
 title: Comment ajouter des membres ?
 ---
 
-Vous avez le droit à 1 collaborateur supplémentaire en version BASIQUE et jusqu’à 5 par projet en INDEPENDANT avec des rôles prédéfinis. Si vous avez besoin de plus d'options, veuillez nous contacter.
+**Vous avez le droit à 1 collaborateur supplémentaire en version BASIQUE et jusqu’à 5 par projet en INDEPENDANT avec des rôles prédéfinis.** Si vous avez besoin de plus d'options, veuillez nous contacter.
 
 Pour ajouter des membres à votre projet&nbsp;:
 
@@ -18,6 +18,6 @@ Pour ajouter des membres à votre projet&nbsp;:
 
 > Quelque soit votre abonnement, il aura accès gratuitement à votre projet.
 
-5. N’oubliez pas de prévenir votre invité !
+N’oubliez pas de prévenir votre invité !
 
 > Pour plus d'informations sur les rôles, rendez-vous dans la rubrique&nbsp;: [Les différents rôles](doc22.md)

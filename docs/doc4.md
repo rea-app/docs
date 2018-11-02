@@ -4,6 +4,8 @@ sidebar_label: Version web / version mobile
 title: Quelles différences entre la version web et la version mobile de Réa. ?
 ---
 
+Quelque soit l'abonnement choisi, **vous avez toujours accès simultanément à l'interface web (Mac, Windows) et à l'interface mobile (iOS et Android).**
+
 ## La version web
 
 La version web de Réa. ([mon.rea-app.fr](https://mon.rea-app.fr)) permet de **travailler dans un plus grand confort**. Elle est pensée pour faciliter la création du descriptif détaillé et peut-être encore plus celle du planning ! Il est malgré tout possible de les remplir sur mobile.
