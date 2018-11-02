@@ -9,11 +9,11 @@ title: Comment puis-je changer mon abonnement ?
 
 Voici la marche à suivre :
 
-1/ Accédez à la page ABONNEMENT en cliquant directement sur le menu de votre application mobile Réa. ou sur PARAMETRES pour la plateforme web.
+1. Accédez à la page ABONNEMENT en cliquant directement sur le menu de votre application mobile Réa. ou sur PARAMETRES pour la plateforme web.
 
-2/ Choisissez l’abonnement souhaité et validez. S’il n’est pas disponible directement pour des raisons techniques notamment, contactez-nous à l’adresse : support@rea-app.fr
+2. Choisissez l’abonnement souhaité et validez. S’il n’est pas disponible directement pour des raisons techniques notamment, contactez-nous à l’adresse : support@rea-app.fr
 
-3/ Vous avez 15 jours d’essai gratuit pour les abonnements INDEPENDANT et EQUIPE. Pensez à renseigner votre numéro de carte dans la section « Moyen de paiement » avant la fin de la période d’essai pour ne pas voir votre accès à Réa. bloqué.
+3. Vous avez 15 jours d’essai gratuit pour les abonnements INDEPENDANT et EQUIPE. Pensez à renseigner votre numéro de carte dans la section « Moyen de paiement » avant la fin de la période d’essai pour ne pas voir votre accès à Réa. bloqué.
 
 L’abonnement pris au mois est sans engagement. Le paiement est sécurisé.
 

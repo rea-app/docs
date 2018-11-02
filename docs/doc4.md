@@ -6,7 +6,7 @@ title: Quelles différences entre la version web et la version mobile de Réa. ?
 
 ## La version web
 
-La version web de Réa. (mon.rea-app.fr) permet de **travailler dans un plus grand confort**. Elle est pensée pour faciliter la création du descriptif détaillé et peut-être encore plus celle du planning ! Il est malgré tout possible de les remplir sur mobile.
+La version web de Réa. ([mon.rea-app.fr](https://mon.rea-app.fr)) permet de **travailler dans un plus grand confort**. Elle est pensée pour faciliter la création du descriptif détaillé et peut-être encore plus celle du planning ! Il est malgré tout possible de les remplir sur mobile.
 
 En revanche, **les exports ne sont disponibles que sur le web** : descriptif détaillé, liste d'achats (matériaux et fournitures) et les comptes-rendus. A noter que cette fonctionnalité est réservée à l’abonnement INDEPENDANT.
 

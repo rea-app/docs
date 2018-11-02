@@ -12,15 +12,15 @@ Il vous est possible d’y ajoutez des commentaires/réserves avec l’abonnemen
 
 « Mettre à jour » le statut d’une tâche signifie la faire évoluer au stade suivant. Il existe plusieurs statuts : 
 
-1/ *En attente* > l’application vous propose alors de la : Marquer comme commencé
+1. *En attente* > l’application vous propose alors de la : Marquer comme commencé
 
-2/ *En cours*  > Marquer comme terminé
+2. *En cours*  > Marquer comme terminé
 
-3/ *Terminé* > avec deux possibilités : Valider / Invalider
+3. *Terminé* > avec deux possibilités : Valider / Invalider
 
-4/ *Invalidé* > Valider
+4. *Invalidé* > Valider
 
-5/ *Validé*
+5. *Validé*
 
 > La date de la modification et la personne ayant mis à jour le statut apparaissent dans l’activité de la tâche. C’est là que vous trouverez également les commentaires et les photos qui lui ont été associés.
 

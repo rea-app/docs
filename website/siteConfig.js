@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: 'Réa.' /* title for your website */,
-  tagline: 'Tout savoir sur les fonctionalités de Réa.',
+  tagline: 'Tout savoir sur les fonctionnalités de Réa.',
   url: 'https://docs.rea-app.fr' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -39,8 +39,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
+    {page: 'help', label: 'Aide'},
   ],
 
   // If you have users set above, you add it here:

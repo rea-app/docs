@@ -8,16 +8,16 @@ Vous avez le droit à 1 collaborateur supplémentaire en version BASIQUE et jusq
 
 Pour ajouter des membres à votre projet :
 
-1/ Créez le projet et validez
+1. Créez le projet et validez
 
-2/ Rendez-vous dans l’onglet PROJET (premier de la barre des outils)
+2. Rendez-vous dans l’onglet PROJET (premier de la barre des outils)
 
-3/ Dans la section MEMBRES cliquez sur « + Ajouter » pour l’interface web et sur le bouton « + » pour l’appli mobile.
+3. Dans la section MEMBRES cliquez sur « + Ajouter » pour l’interface web et sur le bouton « + » pour l’appli mobile.
 
-4/ Vous devez rentrer l’adresse mail exacte d’un de vos contacts. S’il n’a pas encore de compte utilisateur, un compte lui sera créé automatiquement. Il recevra un mail pour confirmer et créer son mot de passe.
+4. Vous devez rentrer l’adresse mail exacte d’un de vos contacts. S’il n’a pas encore de compte utilisateur, un compte lui sera créé automatiquement. Il recevra un mail pour confirmer et créer son mot de passe.
 
 > Quelque soit votre abonnement, il aura accès gratuitement à votre projet.
 
-5/ N’oubliez pas de prévenir votre invité !
+5. N’oubliez pas de prévenir votre invité !
 
 > Pour plus d'informations sur les rôles, rendez-vous dans la rubrique : [Les différents rôles](doc22.md)

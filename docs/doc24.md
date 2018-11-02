@@ -22,11 +22,11 @@ Pour créer un descriptif complet, l’option la plus rapide est de le faire à 
 
 Vous pouvez vous en servir à différents niveaux pour créer :
 
-1/ un descriptif complet (lots + tâches)
+1. un descriptif complet (lots + tâches)
 
-2/ la liste de vos lots
+2. la liste de vos lots
 
-3/ la liste des tâches dans un lot.
+3. la liste des tâches dans un lot.
 
 > Besoin d’une bibliothèque personnalisée ? Passez en abonnement EQUIPE, contactez-nous : support@rea-app.fr
 
@@ -34,15 +34,15 @@ Vous pouvez vous en servir à différents niveaux pour créer :
 
 **Ils ne sont accessibles que sur le web dans l’onglet « Autres ».** On y trouve :
 
-1/ le descriptif détaillé au format excel
+1. le descriptif détaillé au format excel
 
-2/ le descriptif détaillé au format pdf
+2. le descriptif détaillé au format pdf
 
-3/ la liste des matériaux appelée « liste d’achats » au format pdf
+3. la liste des matériaux appelée « liste d’achats » au format pdf
 
-4/ les comptes-rendus éditables par date (et par lot avec l'abonnement EQUIPE)
+4. les comptes-rendus éditables par date (et par lot avec l'abonnement EQUIPE)
 
-5/ Prochainement, le planning.
+5. Prochainement, le planning.
 
 > Seul l’export excel du descriptif est accessible en version BASIQUE de Réa.* Il est ainsi facile de le transmettre aux entreprises pour récupérer leurs devis.
 

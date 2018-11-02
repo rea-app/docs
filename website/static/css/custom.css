@@ -17,6 +17,22 @@
   margin-left: 10px;
 }
 
+ol {
+  list-style-type: none;
+	counter-reset: counter;
+}
+ol li {
+  position: relative;
+  counter-increment: counter;
+}
+ol li::before {
+  content: counter(counter) "/" ;
+  letter-spacing: 0.15em;
+  font-weight: 600;
+  position: absolute;
+  margin-left: -2em;
+}
+
 
 /* a, a:hover {
   color: #ff1c68;
