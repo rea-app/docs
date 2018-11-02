@@ -20,7 +20,7 @@ Pour créer un descriptif complet, l’option la plus rapide est de le faire à 
 
 **La bibliothèque est intégrée à l’outil descriptif. Elle regroupe la plupart des lots et des tâches que l’on retrouve dans des projets de construction, de rénovation ou d’aménagement.** C’est un outil créé en exclusivité pour Réa. par Zélia, architecte du duo. 
 
-Vous pouvez vous en servir à différents niveaux pour créer :
+Vous pouvez vous en servir à différents niveaux pour créer&nbsp;:
 
 1. un descriptif complet (lots + tâches)
 
@@ -28,17 +28,17 @@ Vous pouvez vous en servir à différents niveaux pour créer :
 
 3. la liste des tâches dans un lot.
 
-> Besoin d’une bibliothèque personnalisée ? Passez en abonnement EQUIPE, contactez-nous : support@rea-app.fr
+> Besoin d’une bibliothèque personnalisée ? Passez en abonnement EQUIPE, contactez-nous&nbsp;: support@rea-app.fr
 
 ## Les Exports
 
-**Ils ne sont accessibles que sur le web dans l’onglet « Autres ».** On y trouve :
+**Ils ne sont accessibles que sur le web dans l’onglet «&nbsp;Autres&nbsp;».** On y trouve&nbsp;:
 
 1. le descriptif détaillé au format excel
 
 2. le descriptif détaillé au format pdf
 
-3. la liste des matériaux appelée « liste d’achats » au format pdf
+3. la liste des matériaux appelée «&nbsp;liste d’achats&nbsp;» au format pdf
 
 4. les comptes-rendus éditables par date (et par lot avec l'abonnement EQUIPE)
 
@@ -48,7 +48,7 @@ Vous pouvez vous en servir à différents niveaux pour créer :
 
 **Les autres exports sont réservés aux professionnels qui ont souscrit un abonnement INDEPENDANT ou EQUIPE.**
 
-*Attention ! La version excel installée sur votre ordinateur ne doit pas être trop ancienne pour que l'affichage fonctionne. Si vous rencontrez un problème, essayez de l’ouvrir sur votre Drive par exemple ou contactez-nous : support@rea-app.fr
+*Attention ! La version excel installée sur votre ordinateur ne doit pas être trop ancienne pour que l'affichage fonctionne. Si vous rencontrez un problème, essayez de l’ouvrir sur votre Drive par exemple ou contactez-nous&nbsp;: support@rea-app.fr
 
 ## Le Planning
 
@@ -56,7 +56,7 @@ Vous retrouvez tous vos lots et vos tâches dans l'outil planning.
 
 > Il est davantage agréable de mettre en forme son planning sur le web plutôt que sur mobile. Néanmoins les deux sont possibles.
 
-Sur le web, vous devez vous servir de vos doigts pour zoomer et déplacer le calendrier. En cliquant sur le bouton « Modifier » en haut à gauche, vous verrez apparaitre des options de planification. Vous ajouterez alors des contraintes entre vos tâches.
+Sur le web, vous devez vous servir de vos doigts pour zoomer et déplacer le calendrier. En cliquant sur le bouton «&nbsp;Modifier&nbsp;» en haut à gauche, vous verrez apparaitre des options de planification. Vous ajouterez alors des contraintes entre vos tâches.
 
 **Attention ! Pour pouvoir gérer votre planning vous devez avoir indiqué des dates de début et de fin pour vos travaux.**
 
@@ -80,7 +80,7 @@ Rappelons que les membres de votre projet ne voient pas le budget sauf s’ils e
 
 **Dans cet onglet vous ajoutez les plans, coupes et tout autre document jugé nécessaire.**
 
-Deux options possibles : choisissez un fichier depuis votre ordinateur/mobile ou prenez une photo depuis l’application mobile.
+Deux options possibles&nbsp;: choisissez un fichier depuis votre ordinateur/mobile ou prenez une photo depuis l’application mobile.
 
 Il est également possible d’ajouter des photos directement à l’intérieur des tâches (dans l'activité) pour se référer, sur le chantier, à un point problématique, une réserve ou à l’inverse un résultat à la hauteur des espérances !
 
@@ -100,6 +100,6 @@ Sur le chantier, le conducteur de travaux, votre entreprise, architecte ou vous-
 
 **Dans l’outil EXPORTS, vous éditez vos comptes-rendus de chantier en choisissant les dates souhaitées.** Voir les détails dans la rubrique [ci-dessus](#les-exports).
 
-> Pour plus d’options (choix des lots par exemple et personnalisation), contactez-nous : contact@rea-app.fr
+> Pour plus d’options (choix des lots par exemple et personnalisation), contactez-nous&nbsp;: contact@rea-app.fr
 
 Le détail des outils disponible par offre se trouve [par ici !](http://rea-app.fr/#offres)

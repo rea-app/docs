@@ -21,4 +21,4 @@ L’abonnement INDEPENDANT permet l’accès à l’ensemble des outils de plani
 
 L’abonnement EQUIPE est davantage personnalisé et personnalisable. Les deux différences majeures entre l’offre INDEPENDANT et l’offre EQUIPE sont le nombre de collaborateurs et le nombre de projets autorisés. Viennent s’ajouter des outils spécifiques de collaboration et de gestion de projet.
 
-Pour passer en abonnement EQUIPE, contactez-nous directement : support@rea-app.fr
+Pour passer en abonnement EQUIPE, contactez-nous directement&nbsp;: support@rea-app.fr

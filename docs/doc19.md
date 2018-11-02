@@ -13,7 +13,7 @@ title:  Comment puis-je supprimer un projet ?
 
 2. Rendez-vous dans l’onglet PROJET de la barre des outils.
 
-3. Cliquez sur « Supprimer le projet ».
+3. Cliquez sur «&nbsp;Supprimer le projet&nbsp;».
 
 ## Sur la version mobile
 
@@ -21,6 +21,6 @@ title:  Comment puis-je supprimer un projet ?
 
 2. Un menu s’ouvre et vous propose de le modifier ou de le supprimer
 
-3. Cliquez sur « Supprimer le projet »
+3. Cliquez sur «&nbsp;Supprimer le projet&nbsp;»
 
 > Attention. Après confirmation de votre part, l’action est irréversible.

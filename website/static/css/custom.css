@@ -8,9 +8,6 @@
 .logo {
   max-height: 30px;
 }
-.fixedHeaderContainer header .headerTitleWithLogo {
-  display: none;
-}
 
 .navigationSlider .slidingNav ul li a  {
   font-weight: 600;

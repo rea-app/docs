@@ -9,4 +9,4 @@ Quel dommage !
 
 Contactez-nous si vous êtes en abonnement INDEPENDANT. Sinon, vous n’avez rien à faire.
 
-Néanmoins, si vous souhaitez que votre compte soit supprimé écrivez-nous à l'adresse : contact@rea-app.fr.
+Néanmoins, si vous souhaitez que votre compte soit supprimé écrivez-nous à l'adresse&nbsp;: contact@rea-app.fr.

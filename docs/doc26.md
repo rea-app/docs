@@ -10,13 +10,13 @@ sidebar_label: Zoom sur le suivi
 
 Il vous est possible d’y ajoutez des commentaires/réserves avec l’abonnement INDEPENDANT (vous pourrez alors également éditer vos comptes-rendus de réunion de chantier).
 
-« Mettre à jour » le statut d’une tâche signifie la faire évoluer au stade suivant. Il existe plusieurs statuts : 
+«&nbsp;Mettre à jour&nbsp;» le statut d’une tâche signifie la faire évoluer au stade suivant. Il existe plusieurs statuts&nbsp;: 
 
-1. *En attente* > l’application vous propose alors de la : Marquer comme commencé
+1. *En attente* > l’application vous propose alors de la&nbsp;: Marquer comme commencé
 
 2. *En cours*  > Marquer comme terminé
 
-3. *Terminé* > avec deux possibilités : Valider / Invalider
+3. *Terminé* > avec deux possibilités&nbsp;: Valider / Invalider
 
 4. *Invalidé* > Valider
 

@@ -4,7 +4,7 @@ title: A quoi sert l'onglet "projet" à l'intérieur d'un projet ?
 sidebar_label: L'onglet projet
 ---
 
-Une fois votre projet créé, vous rentrez dans l'onglet "projet" toutes les **informations générales** sur celui-ci : dates, enveloppe budgétaire, adresse... Elles apparaitront notamment dans vos exports (descriptif détaillés, comptes-rendus, etc.) et peuvent s'avérer utiles pour vos collaborateurs.
+Une fois votre projet créé, vous rentrez dans l'onglet "projet" toutes les **informations générales** sur celui-ci&nbsp;: dates, enveloppe budgétaire, adresse... Elles apparaitront notamment dans vos exports (descriptif détaillés, comptes-rendus, etc.) et peuvent s'avérer utiles pour vos collaborateurs.
 
 Dans cet onglet, vous gérez la **TVA** à l'échelle du projet bien que celle-ci puisse être calibrée ensuite par lot et par matériaux.
 

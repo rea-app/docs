@@ -17,6 +17,6 @@ title: Qui puis-je ajouter sur mon projet ?
 **Attention ! Vous ne pourrez pas inviter plus de collaborateurs que ce que votre abonnement vous permet.** 
 Vous avez le droit à 1 collaborateur supplémentaire en version BASIQUE et jusqu’à 5 par projet en INDEPENDANT avec des rôles spécifiques.
 
-Pour plus d'options, contactez-nous : support@rea-app.fr.
+Pour plus d'options, contactez-nous&nbsp;: support@rea-app.fr.
 
 > Voir aussi la rubrique [Ajouter des membres](doc21.md)

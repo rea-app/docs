@@ -38,9 +38,10 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
+    {doc: 'doc1', label: 'Documentation'},
     {page: 'help', label: 'Aide'},
   ],
+  disableHeaderTitle: true,
 
   // If you have users set above, you add it here:
   users,
@@ -89,6 +90,9 @@ const siteConfig = {
   /* Open Graph and Twitter card images */
   ogImage: 'img/logo_150.png',
   twitterImage: 'img/logo_150.png',
+
+  cleanUrl: true,
+  scrollToTop: true,
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...

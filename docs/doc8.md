@@ -11,4 +11,4 @@ Avec l’abonnement INDEPENDANT vous bénéficiez de 15 JOURS D’ESSAI GRATUIT 
 
 > Il n'est pas nécessaire de rentrer une carte de crédit pour bénéficier de l'essai gratuit !
 
-Néanmoins, n'oubliez pas de renseigner votre numéro de carte dans la section « Moyen de paiement » avant la fin de votre période d’essai pour ne pas voir votre accès à Réa. bloqué.
+Néanmoins, n'oubliez pas de renseigner votre numéro de carte dans la section «&nbsp;Moyen de paiement&nbsp;» avant la fin de votre période d’essai pour ne pas voir votre accès à Réa. bloqué.

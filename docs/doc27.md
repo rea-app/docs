@@ -12,4 +12,4 @@ Vous ne pouvez exporter ni votre descriptif, ni votre liste d’achats, ni compt
 
 > Voir aussi la rubrique [Gérer mon abonnement](doc7.md)
 
-Retrouvez le détail des offres sur : [le site web de Réa.](http://rea-app.fr/#offres)
+Retrouvez le détail des offres sur&nbsp;: [le site web de Réa.](http://rea-app.fr/#offres)

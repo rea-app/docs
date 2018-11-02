@@ -8,7 +8,7 @@ Si vous vous posez une question sur l'utilisation générale de l'application ou
 
 Vous trouverez au fil des pages des réponses écrites mais aussi des vidéos ludiques. Prenez quelques minutes, vous gagnerez à coup sûr des heures de travail sur vos chantiers. Ca vaut le coup non ? 
 
-Bien entendu, si vous ne trouvez pas réponse à vos questions, nous vous répondrons personnellement avec plaisir. Contactez-nous par mail à l'adresse suivante : support@rea-app.fr, nous vous assurons de traiter votre demande dans la journée.
+Bien entendu, si vous ne trouvez pas réponse à vos questions, nous vous répondrons personnellement avec plaisir. Contactez-nous par mail à l'adresse suivante&nbsp;: support@rea-app.fr, nous vous assurons de traiter votre demande dans la journée.
 
 
 A bientôt,
