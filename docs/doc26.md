@@ -28,7 +28,7 @@ Il vous est possible d’y ajoutez des commentaires/réserves avec l’abonnemen
 
 **La barre d'avancement quant-à-elle résume l’état d’avancement général du projet en prenant en compte le statut de chaque tâche par rapport à ce qui a été prévu dans le planning.**
 
-> Accédez à la rubrique [Tous les outils](doc24.md), section Planning
+> Accédez à la rubrique [Tous les outils](outils.md), section Planning
 
 Sur le web comme sur mobile, elle est visible depuis votre page d’accueil, la page de vos projets. Vous visualisez ainsi l’état d’avancement de votre/vos chantier.s et connaissez, en un coup d’œil, les éventuels retards ou si le chantier est dans les temps...
 

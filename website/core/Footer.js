@@ -1,9 +1,9 @@
 const React = require('react');
 
 class Footer extends React.Component {
-  docUrl(doc, language) {
+  docUrl(doc) {
     const baseUrl = this.props.config.baseUrl;
-    return baseUrl + 'docs/' + (language ? language + '/' : '') + doc;
+    return baseUrl + 'docs/' + doc;
   }
 
   pageUrl(doc, language) {
@@ -27,37 +27,32 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
-            <h5>Docs</h5>
-            <a href={this.docUrl('doc1.html', this.props.language)}>
-              Getting Started (or other categories)
+            <h5>Documentation</h5>
+            <a href={this.docUrl('documentation')}>
+              Introduction
             </a>
-            <a href={this.docUrl('doc2.html', this.props.language)}>
-              Guides (or other categories)
+            <a href={this.docUrl('outils')}>
+              Outils
             </a>
-            <a href={this.docUrl('doc3.html', this.props.language)}>
-              API Reference (or other categories)
+            <a href={this.docUrl('abonnements')}>
+              Abonnements
             </a>
           </div>
           <div>
-            <h5>Community</h5>
-            <a href={this.pageUrl('users.html', this.props.language)}>
+            <h5>Communauté</h5>
+            {/* <a href={this.pageUrl('users.html', this.props.language)}>
               User Showcase
-            </a>
+            </a> */}
             <a
-              href="http://stackoverflow.com/questions/tagged/"
+              href="https://facebook.com/reaapp/"
               target="_blank"
               rel="noreferrer noopener">
-              Stack Overflow
+              Facebook
             </a>
-            <a href="https://discordapp.com/">Project Chat</a>
-            <a
-              href="https://twitter.com/"
-              target="_blank"
-              rel="noreferrer noopener">
-              Twitter
-            </a>
+            <a href="https://www.instagram.com/rea.avantapres.archideco/" target="_blank"
+              rel="noreferrer noopener">Instagram</a>
           </div>
-          <div>
+          {/* <div>
             <h5>More</h5>
             <a href={this.props.config.baseUrl + 'blog'}>Blog</a>
             <a href="https://github.com/">GitHub</a>
@@ -71,7 +66,7 @@ class Footer extends React.Component {
               aria-label="Star this project on GitHub">
               Star
             </a>
-          </div>
+          </div> */}
         </section>
 
         <section className="copyright">{this.props.config.copyright}</section>

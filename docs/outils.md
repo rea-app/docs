@@ -1,5 +1,5 @@
 ---
-id: doc24
+id: outils
 title: Les détails sur tous les outils disponibles sur Réa.
 sidebar_label: Tous les outils de Réa.
 ---

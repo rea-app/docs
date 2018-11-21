@@ -1,5 +1,5 @@
 ---
-id: doc9
+id: abonnements
 sidebar_label: Les différents abonnements
 title: Quelles différences y-a-t'il entre les abonnements ?
 ---

@@ -14,4 +14,4 @@ Grâce à cela, vous pourrez **éditer la liste des matériaux et fournitures** 
 
 Vous pouvez également nous demander votre bibliothèque de matériaux personnalisée à l’adresse&nbsp;: support@rea-app.fr
 
-> Voir aussi la rubrique [Tous les outils](doc24.md), section "exports".
+> Voir aussi la rubrique [Tous les outils](outils.md), section "exports".
