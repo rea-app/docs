@@ -5,10 +5,6 @@
   background: #ffe211;
 }
 
-.logo {
-  max-height: 30px;
-}
-
 .navigationSlider .slidingNav ul li a  {
   font-weight: 600;
   margin-left: 10px;
@@ -50,7 +46,17 @@ ol li::before {
   }
 }
 
+.navigationSlider .slidingNav {
+  display: none;
+}
 @media only screen and (max-width: 1023px) {
+
+  .navPusher {
+    padding-top: 64px;
+  }
+  .navPusher .onPageNav {
+    top: calc(64px + 48px);
+  }
 }
 
 @media only screen and (min-width: 1400px) {
