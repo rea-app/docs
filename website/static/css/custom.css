@@ -46,17 +46,31 @@ ol li::before {
   }
 }
 
-.navigationSlider .slidingNav {
-  display: none;
+.navigationSlider .slidingNav .navSearchWrapper {
+  top: 6px
 }
-@media only screen and (max-width: 1023px) {
 
+.reactNavSearchWrapper input#search_input_react:focus {
+  background-color: rgba(0, 0, 0, 0.15);
+}
+.reactNavSearchWrapper input#search_input_react {
+  background-color: rgba(0, 0, 0, 0.1);
+  font-weight: bold;
+  line-height: 25px;
+  border-radius: 6px; 
+}
+
+@media only screen and (max-width: 1023px) {
+  .navigationSlider .slidingNav .navSearchWrapper {
+    top: 21px
+  }
   .navPusher {
     padding-top: 64px;
   }
   .navPusher .onPageNav {
     top: calc(64px + 48px);
   }
+
 }
 
 @media only screen and (min-width: 1400px) {

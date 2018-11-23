@@ -37,15 +37,18 @@ const siteConfig = {
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
+  algolia: {
+    apiKey: 'e15978ba4a41ad5f231bddcdf8d1e525',
+    indexName: 'rea-app',
+    placeholder: 'Rechercher' 
+  },
+
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'documentation', label: 'Documentation'},
+    // {doc: 'documentation', label: 'Documentation'},
     // {page: 'help', label: 'Aide'},
   ],
   disableHeaderTitle: true,
-
-  // If you have users set above, you add it here:
-  users,
 
   /* path to images for header/footer */
   headerIcon: 'img/logo.svg',
